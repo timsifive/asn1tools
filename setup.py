@@ -3,7 +3,7 @@
 from setuptools import setup
 from setuptools import find_packages
 import re
-
+break it
 
 def find_version():
     return re.search(r"^__version__ = '(.*)'$",

@@ -6,6 +6,8 @@ C_SOURCES := \
 	tests/files/c_source/oer.c
 	# tests/files/c_source/uper.c
 
+break it
+
 FUZZER_CC ?= clang
 FUZZER_OER_EXE = main_oer_fuzzer
 FUZZER_UPER_EXE = main_uper_fuzzer
